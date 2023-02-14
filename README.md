@@ -5,7 +5,7 @@
 ## 平台组件及版本
 
 * [ubp-accesskey (0.1.0)](ubp-accesskey/README.md)：统一管理Open API提供的访问密钥
-* [ubp-appstore (0.1.0-SNAPSHOT)](ubp-appstore/README.md)：多提供商应用市场
+* [ubp-appstore (0.1.0-SNAPSHOT)](ubp-appstore/README.md)：应用市场，配套vip-appstore使用
 * [ubp-audit-baidu (1.3.0)](ubp-audit-baidu/README.md)：百度审计
 * [ubp-audit-jpa (1.2.0)](ubp-audit-jpa/README.md)：JPA审计
 * [ubp-audit-log (1.2.0)](ubp-audit-log/README.md)：日志审计
