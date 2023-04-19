@@ -18,7 +18,7 @@
     * [ubp-exception-jwt (1.7.0)](ubp-exception-jwt/README.md)：ubp-exception的扩展，用于JWT异常处理
     * [ubp-exception-rest (1.7.0)](ubp-exception-rest/README.md)：ubp-exception的扩展，用于REST异常处理
 * [ubp-filestorage (1.5.0)](ubp-filestorage/README.md)：文件存储
-* [ubp-iam (2.12.0-SNAPSHOT)](ubp-iam/README.md)：多租户的身份认证和访问控制
+* [ubp-iam (2.15.0-SNAPSHOT)](ubp-iam/README.md)：多租户的身份认证和访问控制
     * [ubp-iam-context (0.4.0)](ubp-iam-context/README.md)：ubp-iam的扩展，实现了多种IAM上下文
     * [ubp-iam-member (0.3.0-SNAPSHOT)](ubp-iam-member/README.md)：ubp-iam的扩展，实现了会员管理及基于会员的权限控制
     * [ubp-iam-session (0.1.0-SNAPSHOT)](ubp-iam-session/README.md)：ubp-iam的扩展，实现认证会话管理
